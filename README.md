@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/LivingstoneMaganya">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Livingstone" alt="Hello! I&#39;m Livingstone" />
   </a>
 </p>
 
@@ -76,4 +76,4 @@ I build modern web applications, intelligent automation systems, and secure soft
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Maganya">Maganya</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/LivingstoneMaganya">LivingstoneMaganya</a></i></p>
