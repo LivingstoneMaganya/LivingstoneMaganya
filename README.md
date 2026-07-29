@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Maganya">
+  <a href="https://github.com/LivingstoneMaganya">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
   </a>
 </p>
@@ -12,7 +12,7 @@
 
 I build modern web applications, intelligent automation systems, and secure software that help businesses streamline operations, improve productivity, and scale with confidence.
 
-🌱 &nbsp;I'm currently learning **Rust, DevSecOps**  
+🌱 &nbsp;I'm currently learning **Rust,**  
 👯 &nbsp;I'm looking to collaborate on **Any project honestly!**  
 💬 &nbsp;Ask me about **React, React Native, Nextjs, Nodejs**  
 😄 &nbsp;Pronouns: **He/Him**  
@@ -67,19 +67,6 @@ I build modern web applications, intelligent automation systems, and secure soft
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/livingstonemaganya" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Livingstonne_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Maganya&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Maganya&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maganya&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
