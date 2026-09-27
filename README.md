@@ -10,11 +10,10 @@
 
 ### 🚀 About Me
 
-**Hey! I’m a full-stack engineer and system architect with a passion for building scalable software. I design end-to-end applications, architect distributed backends, and optimize database performance. Off the clock, you’ll find me at the gym chasing PRs—both in my code and on the barbell. I'm also a full-time cat dad to a feline manager who insists on approving every commit with a keyboard walk. Fueled by heavy deadlifts and clean architecture, I love turning complex ideas into reliable tech. Let's build something awesome!**
+**I’m a full-stack engineer and system architect with a passion for building scalable software. I design end-to-end applications, architect distributed backends, and optimize database performance. Off the clock, you’ll find me at the gym chasing PRs—both in my code and on the barbell. I'm also a full-time cat dad to a feline manager who insists on approving every commit with a keyboard walk. I love turning complex ideas into reliable tech. Let's build something awesome!**
 
 🌱 &nbsp;I'm currently learning **Rust,**  
 👯 &nbsp;I'm looking to collaborate on **Any project honestly!**  
-💬 &nbsp;Ask me about **React, React Native, Nextjs, Nodejs**  
 😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **I'm a Marvel/DC fan and Anime Geek**
 
