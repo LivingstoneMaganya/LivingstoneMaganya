@@ -15,7 +15,7 @@
 🌱 &nbsp;I'm currently learning **Rust,**  
 👯 &nbsp;I'm looking to collaborate on **Any project honestly!**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I'm a Marvel/DC fan and Anime Geek**
+⚡ &nbsp;Fun fact: **I love writing. Check out my Medium Account**
 
 ### 🛠️ Tech Stack
 
