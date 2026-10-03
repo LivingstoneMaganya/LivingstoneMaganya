@@ -15,7 +15,7 @@
 🌱 &nbsp;I'm currently learning **Rust,**  
 👯 &nbsp;I'm looking to collaborate on **Any project honestly!**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **Check out my Medium Account where I share nuggets of coding wisdom**
+⚡ &nbsp;Fun fact: **I'm also a technical contributor to a major tech publication on Medium (JavaScript in Plain English)**
 
 ### 🛠️ Tech Stack
 
